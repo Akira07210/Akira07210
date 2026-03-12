@@ -1,3 +1,3 @@
 <div>
-    <img src="github-snake.svg">
+    <img src="eye.svg">
 </div>
