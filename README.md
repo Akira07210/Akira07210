@@ -1,3 +1,3 @@
 <div>
-    <img src="eye.svg" style="width:300px; justify-content: center; ">
+    <img src="eye.svg" style="width:300px; margin: 800px">
 </div>
